@@ -5,3 +5,8 @@ int Class::f() const
 {
     return 88;
 }
+
+int Class2::f() const
+{
+    return 22;
+}
