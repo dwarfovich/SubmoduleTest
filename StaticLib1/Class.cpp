@@ -3,7 +3,7 @@
 
 int Class::f() const
 {
-    return 88;
+    return 8338;
 }
 
 int Class2::f() const
